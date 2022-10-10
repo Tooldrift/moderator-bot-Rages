@@ -1,0 +1,74 @@
+{
+  
+  "prefix": "%!%",
+  
+  "users": {
+    "client_id": "1028626410820083742",
+    "owner": "814189349658296342",
+    "owner_tag": "𝖗𝖆𝖌𝖊#2696"
+  },
+  
+  "guilds": {
+    "guild_id": "918611797194465280"
+  },
+
+  "emojis": {
+    "success": "<:success_3:948948438601592862>",
+    "wrong": "<:error_4:948948619111854080>",
+    "warning": "<:warning_icon:928019521661456414>",
+    "others": {
+      "database": "<a:Database_Secure:970989694441640036>",
+      "locked": "<a:Locked:971168744279781376>",
+      "unlocked": "<a:Unlocked:971168987109019658>"
+    }
+  },
+
+  "messages": {
+    
+    "embeds": {
+      "colors": {
+        "yes": "#42f58a",
+        "no": "#f73e3b",
+        "error": "#dafa28"
+      }
+      
+    }
+  },
+  
+  "systems": {
+    
+    "suggestion": {
+      "reacts": {
+        "reaction_1": "948948438601592862",
+        "reaction_2": "948948619111854080"     
+      }   
+    },
+    
+    "automod": {
+      "mute_time": "30m"
+    },
+    
+    "command_handler": {
+      "reply_when_command_is_not_valid": true
+    },
+
+    "commands": {
+      "help": {
+        "buttons": {
+          "invite": "https://www.google.com",
+          "support_server": "https://discord.gg/7zrFC2NPrd"
+        }
+      }
+    },
+    
+    "ranking_system": {
+      
+      "progress_bar": {
+        "color": "cyan"
+      }
+      
+    }
+    
+  } 
+  
+}
